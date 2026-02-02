@@ -1,2 +1,2 @@
 # menu
-menu foe every day
+menu for every day
